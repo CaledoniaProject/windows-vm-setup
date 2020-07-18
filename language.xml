@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<gs:GlobalizationServices xmlns:gs="urn:longhornGlobalizationUnattend">
+    <gs:UserList>
+        <gs:User UserID="Current" CopySettingsToDefaultUserAcct="true" CopySettingsToSystemAcct="true"/>
+    </gs:UserList>
+    <gs:MUILanguagePreferences>
+        <gs:MUILanguage Value="zh-CN"/>
+        <gs:MUIFallback Value="en-US"/>
+    </gs:MUILanguagePreferences>
+</gs:GlobalizationServices>
